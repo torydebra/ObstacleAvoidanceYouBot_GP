@@ -2,7 +2,7 @@
 Presentation slide and Report for Group Project for Robotics Engineering course 2017/18: Obstacle Avoidance in a Cooperative Object Trasportation
 
 
-<p align="center">
+<p>
     <img src="foto1.jpg" alt="youbut photo" width="850"/>
 </p>
 
